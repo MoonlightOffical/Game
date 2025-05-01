@@ -9,10 +9,8 @@ local Games = {
   [125723653259639] = "nil", -- Drill Digging Simulator
   [128336380114944] = "nil", -- Arise Crossover | Dungeon
   [116614712661486] = "nil", -- Arise Crossover | AFK Reward
-  [85896571713843] = "nil" -- Bubble Gum Simulator INFINITY
+  [85896571713843] = "nil", -- Bubble Gum Simulator INFINITY
+  [81440632616906] = "nil", -- Dig to the Earth's Core
 }
 
--- Kick the player if their game is not in the supported list
-if not Games[game.GameId] then
-    game.Players.LocalPlayer:Kick("This game is not supported.")
-end
+return Games

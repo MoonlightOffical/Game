@@ -12,4 +12,7 @@ local Games = {
   [85896571713843] = "nil" -- Bubble Gum Simulator INFINITY
 }
 
-return Games
+-- Kick the player if their game is not in the supported list
+if not Games[game.GameId] then
+    game.Players.LocalPlayer:Kick("This game is not supported.")
+end

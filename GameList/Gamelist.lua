@@ -15,3 +15,5 @@ local Games = {
 }
 
 return Games
+
+-- What is bro doing here? The script are obfuscated.

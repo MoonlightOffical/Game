@@ -10,7 +10,6 @@ local Games = {
   [128336380114944] = "nil", -- Arise Crossover | Dungeon
   [116614712661486] = "nil", -- Arise Crossover | AFK Reward
   [85896571713843] = "nil", -- Bubble Gum Simulator INFINITY
-  [00000000000000] = "nil", -- Dig to the Earth's Core
   [122678592501168] = "https://raw.githubusercontent.com/MoonlightOffical/Game/refs/heads/main/Beaks.lua", -- Beaks
   [81440632616906] = "https://raw.githubusercontent.com/MoonlightOffical/Game/refs/heads/main/DTEC.lua" -- DTEC
 }

@@ -11,7 +11,8 @@ local Games = {
   [116614712661486] = "nil", -- Arise Crossover | AFK Reward
   [85896571713843] = "nil", -- Bubble Gum Simulator INFINITY
   [122678592501168] = "https://raw.githubusercontent.com/MoonlightOffical/Game/refs/heads/main/Beaks.lua", -- Beaks
-  [81440632616906] = "https://raw.githubusercontent.com/MoonlightOffical/Game/refs/heads/main/DTEC.lua" -- DTEC
+  [81440632616906] = "https://raw.githubusercontent.com/MoonlightOffical/Game/refs/heads/main/DTEC.lua", -- DTEC
+  [99791605069929] = "https://raw.githubusercontent.com/MoonlightOffical/Game/refs/heads/main/BIB.lua" -- BIB
 }
 
 return Games

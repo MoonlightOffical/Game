@@ -5,7 +5,7 @@ local Games = {
   [111989938562194] = "https://raw.githubusercontent.com/MoonlightOffical/Game/refs/heads/main/BrainrotEvo.lua", -- Brain Evo
   [126884695634066] = "https://raw.githubusercontent.com/MoonlightOffical/Game/refs/heads/main/GrowAGarden.lua" -- GROW A GARDEN
   [109983668079237] = "https://api.junkie-development.de/api/v1/luascripts/public/a7d8a3b32870e220aab4c001e690dffd15cbef8ea6dde4d87b7fdaad21eee0f7/download" -- SAB [Old Server]
-  [000000000000001] = "https://api.junkie-development.de/api/v1/luascripts/public/a7d8a3b32870e220aab4c001e690dffd15cbef8ea6dde4d87b7fdaad21eee0f7/download" -- SAB [NEW PLAYER SERVER]
+  [96342491571673] = "https://api.junkie-development.de/api/v1/luascripts/public/a7d8a3b32870e220aab4c001e690dffd15cbef8ea6dde4d87b7fdaad21eee0f7/download" -- SAB [NEW PLAYER SERVER]
 }
 
 return Games
